@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "ZWUTA信息技术协会",
+  "short_name": "ZWUTA",
+  "description": "浙江万里学院信息技术协会",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
